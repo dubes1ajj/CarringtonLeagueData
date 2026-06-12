@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-06-12T17:05:20.774Z",
+  "exportedAt": "2026-06-12T17:06:49.063Z",
   "league": {
     "leagueName": "2024 Guinness Cup",
     "events": [
@@ -28687,17 +28687,17 @@
   },
   "playerConfig": {
     "active": {
-      "Heflin, Jerry": false,
-      "Cloutier, Jeff": false,
-      "Miller, Josh": false,
-      "Richards, Greg": false,
-      "Dubes, Austin": false,
+      "Heflin, Jerry": true,
+      "Cloutier, Jeff": true,
+      "Miller, Josh": true,
+      "Richards, Greg": true,
+      "Dubes, Austin": true,
       "Greggo, Dave": false,
-      "Doyle, Todd": false,
+      "Doyle, Todd": true,
       "Smith, Dan": false,
       "Hurley, Chris": false,
       "Boros, Tanner": false,
-      "Heflin, Jackson": false,
+      "Heflin, Jackson": true,
       "Kaczor, Dennis": false,
       "Edwards, Dave": false,
       "Scharboneau, Otto": false,
