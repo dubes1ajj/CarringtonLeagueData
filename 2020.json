@@ -1,746 +1,9 @@
 {
   "version": 1,
-  "exportedAt": "2026-06-12T17:47:21.664Z",
+  "exportedAt": "2026-06-12T19:09:38.555Z",
   "league": {
     "leagueName": "2020 Guinness Cup",
     "events": [
-      {
-        "eventNumber": 1,
-        "eventDate": "5/13/2020",
-        "nineHoles": "back",
-        "players": [
-          {
-            "position": 1,
-            "playerName": "Scharboneau, Mark",
-            "holes": [
-              6,
-              4,
-              3,
-              5,
-              4,
-              4,
-              6,
-              5,
-              6
-            ],
-            "grossScore": 43,
-            "handicap": 5,
-            "netScore": 38,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 3,
-            "birdies": 7,
-            "pars": 4,
-            "bogeys": 4,
-            "doubleBogeys": 0,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": false
-          },
-          {
-            "position": 1,
-            "playerName": "Charron, Dan",
-            "holes": [
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null
-            ],
-            "grossScore": null,
-            "handicap": 7,
-            "netScore": null,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 0,
-            "birdies": 0,
-            "pars": 0,
-            "bogeys": 0,
-            "doubleBogeys": 0,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": true
-          },
-          {
-            "position": 1,
-            "playerName": "Kaczor, Michael",
-            "holes": [
-              6,
-              4,
-              4,
-              5,
-              7,
-              4,
-              5,
-              3,
-              5
-            ],
-            "grossScore": 43,
-            "handicap": 7,
-            "netScore": 36,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 4,
-            "birdies": 7,
-            "pars": 4,
-            "bogeys": 2,
-            "doubleBogeys": 1,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": false
-          },
-          {
-            "position": 1,
-            "playerName": "Boros, Jason",
-            "holes": [
-              5,
-              7,
-              3,
-              6,
-              5,
-              4,
-              6,
-              3,
-              5
-            ],
-            "grossScore": 44,
-            "handicap": 7,
-            "netScore": 37,
-            "points": 0,
-            "bonusPoints": 1,
-            "totalPoints": 0,
-            "eagles": 2,
-            "birdies": 9,
-            "pars": 4,
-            "bogeys": 2,
-            "doubleBogeys": 1,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": false
-          },
-          {
-            "position": 1,
-            "playerName": "Charron, Bill",
-            "holes": [
-              6,
-              5,
-              6,
-              6,
-              3,
-              6,
-              5,
-              4,
-              4
-            ],
-            "grossScore": 45,
-            "handicap": 7,
-            "netScore": 38,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 2,
-            "birdies": 3,
-            "pars": 7,
-            "bogeys": 2,
-            "doubleBogeys": 2,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": false
-          },
-          {
-            "position": 1,
-            "playerName": "Urbanski, Jeff",
-            "holes": [
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null
-            ],
-            "grossScore": null,
-            "handicap": 2,
-            "netScore": null,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 0,
-            "birdies": 0,
-            "pars": 0,
-            "bogeys": 0,
-            "doubleBogeys": 0,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": true
-          },
-          {
-            "position": 1,
-            "playerName": "Hamilton, Matt",
-            "holes": [
-              6,
-              4,
-              3,
-              5,
-              6,
-              4,
-              5,
-              4,
-              7
-            ],
-            "grossScore": 44,
-            "handicap": 3,
-            "netScore": 41,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 1,
-            "birdies": 8,
-            "pars": 4,
-            "bogeys": 5,
-            "doubleBogeys": 0,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": false
-          },
-          {
-            "position": 1,
-            "playerName": "Skene, Bill",
-            "holes": [
-              7,
-              3,
-              6,
-              4,
-              3,
-              4,
-              3,
-              3,
-              6
-            ],
-            "grossScore": 39,
-            "handicap": 3,
-            "netScore": 36,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 7,
-            "birdies": 3,
-            "pars": 2,
-            "bogeys": 0,
-            "doubleBogeys": 4,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": false
-          },
-          {
-            "position": 1,
-            "playerName": "Heflin, Jerry",
-            "holes": [
-              5,
-              7,
-              2,
-              7,
-              6,
-              5,
-              5,
-              3,
-              5
-            ],
-            "grossScore": 45,
-            "handicap": 7,
-            "netScore": 38,
-            "points": 0,
-            "bonusPoints": 1,
-            "totalPoints": 0,
-            "eagles": 3,
-            "birdies": 6,
-            "pars": 5,
-            "bogeys": 3,
-            "doubleBogeys": 1,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": false
-          },
-          {
-            "position": 1,
-            "playerName": "Smith, Dan",
-            "holes": [
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null
-            ],
-            "grossScore": null,
-            "handicap": 7,
-            "netScore": null,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 0,
-            "birdies": 0,
-            "pars": 0,
-            "bogeys": 0,
-            "doubleBogeys": 0,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": true
-          },
-          {
-            "position": 1,
-            "playerName": "Marcott, Dave",
-            "holes": [
-              5,
-              4,
-              3,
-              7,
-              4,
-              6,
-              4,
-              4,
-              6
-            ],
-            "grossScore": 43,
-            "handicap": 6,
-            "netScore": 37,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 2,
-            "birdies": 8,
-            "pars": 6,
-            "bogeys": 2,
-            "doubleBogeys": 0,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": false
-          },
-          {
-            "position": 1,
-            "playerName": "Muck, Kelly",
-            "holes": [
-              6,
-              5,
-              4,
-              7,
-              4,
-              5,
-              5,
-              5,
-              5
-            ],
-            "grossScore": 46,
-            "handicap": 7,
-            "netScore": 39,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 2,
-            "birdies": 5,
-            "pars": 7,
-            "bogeys": 4,
-            "doubleBogeys": 0,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": false
-          },
-          {
-            "position": 1,
-            "playerName": "Hurley, Chris",
-            "holes": [
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null
-            ],
-            "grossScore": null,
-            "handicap": 7,
-            "netScore": null,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 0,
-            "birdies": 0,
-            "pars": 0,
-            "bogeys": 0,
-            "doubleBogeys": 0,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": true
-          },
-          {
-            "position": 1,
-            "playerName": "Boros, Tanner",
-            "holes": [
-              5,
-              4,
-              3,
-              6,
-              7,
-              4,
-              4,
-              4,
-              5
-            ],
-            "grossScore": 42,
-            "handicap": 7,
-            "netScore": 35,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 4,
-            "birdies": 8,
-            "pars": 4,
-            "bogeys": 1,
-            "doubleBogeys": 1,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": false
-          },
-          {
-            "position": 1,
-            "playerName": "Cloutier, Jeff",
-            "holes": [
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null
-            ],
-            "grossScore": null,
-            "handicap": 7,
-            "netScore": null,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 0,
-            "birdies": 0,
-            "pars": 0,
-            "bogeys": 0,
-            "doubleBogeys": 0,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": true
-          },
-          {
-            "position": 1,
-            "playerName": "Heflin, Jackson",
-            "holes": [
-              5,
-              5,
-              4,
-              6,
-              5,
-              4,
-              5,
-              6,
-              6
-            ],
-            "grossScore": 46,
-            "handicap": 7,
-            "netScore": 39,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 1,
-            "birdies": 7,
-            "pars": 8,
-            "bogeys": 0,
-            "doubleBogeys": 2,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": false
-          },
-          {
-            "position": 1,
-            "playerName": "Kaczor, Dennis",
-            "holes": [
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null
-            ],
-            "grossScore": null,
-            "handicap": 7,
-            "netScore": null,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 0,
-            "birdies": 0,
-            "pars": 0,
-            "bogeys": 0,
-            "doubleBogeys": 0,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": true
-          },
-          {
-            "position": 1,
-            "playerName": "Edwards, Dave",
-            "holes": [
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null
-            ],
-            "grossScore": null,
-            "handicap": 0,
-            "netScore": null,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 0,
-            "birdies": 0,
-            "pars": 0,
-            "bogeys": 0,
-            "doubleBogeys": 0,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": true
-          },
-          {
-            "position": 1,
-            "playerName": "Scharboneau, Otto",
-            "holes": [
-              7,
-              6,
-              4,
-              6,
-              6,
-              6,
-              7,
-              5,
-              6
-            ],
-            "grossScore": 53,
-            "handicap": 4,
-            "netScore": 49,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 0,
-            "birdies": 1,
-            "pars": 7,
-            "bogeys": 7,
-            "doubleBogeys": 3,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": false
-          },
-          {
-            "position": 1,
-            "playerName": "Ryan, Darrin",
-            "holes": [
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null
-            ],
-            "grossScore": null,
-            "handicap": 7,
-            "netScore": null,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 0,
-            "birdies": 0,
-            "pars": 0,
-            "bogeys": 0,
-            "doubleBogeys": 0,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": true
-          },
-          {
-            "position": 1,
-            "playerName": "Charron, Justin",
-            "holes": [
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null
-            ],
-            "grossScore": null,
-            "handicap": 7,
-            "netScore": null,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 0,
-            "birdies": 0,
-            "pars": 0,
-            "bogeys": 0,
-            "doubleBogeys": 0,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": true
-          },
-          {
-            "position": 1,
-            "playerName": "Wylie, Brandon",
-            "holes": [
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null
-            ],
-            "grossScore": null,
-            "handicap": 0,
-            "netScore": null,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 0,
-            "birdies": 0,
-            "pars": 0,
-            "bogeys": 0,
-            "doubleBogeys": 0,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": true
-          },
-          {
-            "position": 1,
-            "playerName": "Outland, Jacob",
-            "holes": [
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null
-            ],
-            "grossScore": null,
-            "handicap": 7,
-            "netScore": null,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 0,
-            "eagles": 0,
-            "birdies": 0,
-            "pars": 0,
-            "bogeys": 0,
-            "doubleBogeys": 0,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": true
-          }
-        ],
-        "standings": [
-          {
-            "playerName": "Boros, Jason",
-            "cumulativePoints": 0,
-            "position": 1
-          },
-          {
-            "playerName": "Boros, Tanner",
-            "cumulativePoints": 0,
-            "position": 1
-          },
-          {
-            "playerName": "Charron, Bill",
-            "cumulativePoints": 0,
-            "position": 1
-          },
-          {
-            "playerName": "Hamilton, Matt",
-            "cumulativePoints": 0,
-            "position": 1
-          },
-          {
-            "playerName": "Heflin, Jackson",
-            "cumulativePoints": 0,
-            "position": 1
-          },
-          {
-            "playerName": "Heflin, Jerry",
-            "cumulativePoints": 0,
-            "position": 1
-          },
-          {
-            "playerName": "Kaczor, Michael",
-            "cumulativePoints": 0,
-            "position": 1
-          },
-          {
-            "playerName": "Marcott, Dave",
-            "cumulativePoints": 0,
-            "position": 1
-          },
-          {
-            "playerName": "Muck, Kelly",
-            "cumulativePoints": 0,
-            "position": 1
-          },
-          {
-            "playerName": "Scharboneau, Mark",
-            "cumulativePoints": 0,
-            "position": 1
-          },
-          {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 1
-          },
-          {
-            "playerName": "Skene, Bill",
-            "cumulativePoints": 0,
-            "position": 1
-          }
-        ],
-        "id": "event-1-1781286373082"
-      },
       {
         "eventNumber": 2,
         "eventDate": "5/27/2020",
@@ -1471,19 +734,14 @@
             "position": 11
           },
           {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 12
-          },
-          {
             "playerName": "Boros, Tanner",
             "cumulativePoints": -10,
-            "position": 13
+            "position": 12
           },
           {
             "playerName": "Heflin, Jackson",
             "cumulativePoints": -10,
-            "position": 13
+            "position": 12
           }
         ],
         "id": "event-2-1781286373508"
@@ -2226,11 +1484,6 @@
             "playerName": "Muck, Kelly",
             "cumulativePoints": 35,
             "position": 13
-          },
-          {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 14
           }
         ],
         "id": "event-3-1781286373952"
@@ -2978,11 +2231,6 @@
             "playerName": "Charron, Dan",
             "cumulativePoints": 10,
             "position": 14
-          },
-          {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 15
           }
         ],
         "id": "event-4-1781286374410"
@@ -3730,11 +2978,6 @@
             "playerName": "Charron, Dan",
             "cumulativePoints": 10,
             "position": 14
-          },
-          {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 15
           }
         ],
         "id": "event-5-1781286374862"
@@ -4482,11 +3725,6 @@
             "playerName": "Muck, Kelly",
             "cumulativePoints": 30,
             "position": 14
-          },
-          {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 15
           }
         ],
         "id": "event-6-1781286375624"
@@ -5239,11 +4477,6 @@
             "playerName": "Heflin, Jackson",
             "cumulativePoints": 45,
             "position": 15
-          },
-          {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 16
           }
         ],
         "id": "event-7-1781286376078"
@@ -5996,11 +5229,6 @@
             "playerName": "Ryan, Darrin",
             "cumulativePoints": 100,
             "position": 15
-          },
-          {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 16
           }
         ],
         "id": "event-8-1781286376525"
@@ -6753,11 +5981,6 @@
             "playerName": "Ryan, Darrin",
             "cumulativePoints": 100,
             "position": 15
-          },
-          {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 16
           }
         ],
         "id": "event-9-1781286376981"
@@ -7510,11 +6733,6 @@
             "playerName": "Ryan, Darrin",
             "cumulativePoints": 100,
             "position": 15
-          },
-          {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 16
           }
         ],
         "id": "event-10-1781286377481"
@@ -8267,11 +7485,6 @@
             "playerName": "Ryan, Darrin",
             "cumulativePoints": 100,
             "position": 15
-          },
-          {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 16
           }
         ],
         "id": "event-11-1781286377928"
@@ -9024,11 +8237,6 @@
             "playerName": "Ryan, Darrin",
             "cumulativePoints": 100,
             "position": 15
-          },
-          {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 16
           }
         ],
         "id": "event-12-1781286378708"
@@ -9781,11 +8989,6 @@
             "playerName": "Ryan, Darrin",
             "cumulativePoints": 100,
             "position": 15
-          },
-          {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 16
           }
         ],
         "id": "event-13-1781286379139"
@@ -10543,11 +9746,6 @@
             "playerName": "Ryan, Darrin",
             "cumulativePoints": 100,
             "position": 16
-          },
-          {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 17
           }
         ],
         "id": "event-14-1781286379720"
@@ -11320,11 +10518,6 @@
             "playerName": "Charron, Justin",
             "cumulativePoints": 70,
             "position": 19
-          },
-          {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 20
           }
         ],
         "id": "event-15-1781286380399"
@@ -12097,11 +11290,6 @@
             "playerName": "Charron, Justin",
             "cumulativePoints": 70,
             "position": 19
-          },
-          {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 20
           }
         ],
         "id": "event-16-1781286380786"
@@ -12874,11 +12062,6 @@
             "playerName": "Charron, Justin",
             "cumulativePoints": 70,
             "position": 19
-          },
-          {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 20
           }
         ],
         "id": "event-17-1781286381228"
@@ -13651,11 +12834,6 @@
             "playerName": "Charron, Justin",
             "cumulativePoints": 70,
             "position": 19
-          },
-          {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 20
           }
         ],
         "id": "event-18-1781286381646"
@@ -14428,11 +13606,6 @@
             "playerName": "Charron, Justin",
             "cumulativePoints": 70,
             "position": 19
-          },
-          {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 20
           }
         ],
         "id": "event-19-1781286382062"
@@ -15205,11 +14378,6 @@
             "playerName": "Charron, Justin",
             "cumulativePoints": 70,
             "position": 19
-          },
-          {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 20
           }
         ],
         "id": "event-20-1781286382489"
@@ -15982,11 +15150,6 @@
             "playerName": "Charron, Justin",
             "cumulativePoints": 70,
             "position": 19
-          },
-          {
-            "playerName": "Scharboneau, Otto",
-            "cumulativePoints": 0,
-            "position": 20
           }
         ],
         "id": "event-21-1781286382855"
