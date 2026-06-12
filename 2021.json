@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-06-12T17:41:42.722Z",
+  "exportedAt": "2026-06-12T17:42:09.138Z",
   "league": {
     "leagueName": "2021 Guinness Cup",
     "events": [
@@ -20532,9 +20532,9 @@
   "playerConfig": {
     "active": {
       "Urbanski, Jeff": false,
-      "Boros, Tanner": false,
+      "Boros, Tanner": true,
       "Smith, Dan": false,
-      "Marcott, Jason": false,
+      "Marcott, Jason": true,
       "Marcott, Jase": false,
       "Hurley, Chris": false,
       "Kaczor, Dennis": false,
@@ -20543,7 +20543,8 @@
       "Ryan, Darrin": false,
       "Charron, Justin": false,
       "Wylie, Brandon": false,
-      "Outland, Jacob": false
+      "Outland, Jacob": false,
+      "Marcott, Eric": false
     }
   }
 }
