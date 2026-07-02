@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-07-02T17:57:36.036Z",
+  "exportedAt": "2026-07-02T17:59:39.348Z",
   "league": {
     "leagueName": "2026 Guinness Cup",
     "events": [
@@ -13684,7 +13684,7 @@
     "active": {
       "Marcott, Dave": false,
       "Richards, Greg": false,
-      "Fuleky, Joe": false,
+      "Fuleky, Joe": true,
       "Snow, Joe": false,
       "Cheslick, Tony": false,
       "Heflin, Jerry": false,
