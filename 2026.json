@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-07-17T22:08:32.927Z",
+  "exportedAt": "2026-07-17T22:14:04.406Z",
   "league": {
     "leagueName": "2026 Guinness Cup",
     "events": [
@@ -1349,6 +1349,9 @@
             "position": 18
           }
         ],
+        "sourceType": "url",
+        "sourceUrl": "https://service.golfleague.net/lm/72698/8/results/player_standings_by_points-01.html?1784159290856",
+        "sourceFetchedAt": "2026-07-17T22:13:31.377Z",
         "id": "event-1-1783015007220"
       },
       {
@@ -2701,6 +2704,9 @@
             "position": 19
           }
         ],
+        "sourceType": "url",
+        "sourceUrl": "https://service.golfleague.net/lm/72698/8/results/player_standings_by_points-02.html?1784159290856",
+        "sourceFetchedAt": "2026-07-17T22:13:31.338Z",
         "id": "event-2-1783015007561"
       },
       {
@@ -4053,6 +4059,9 @@
             "position": 19
           }
         ],
+        "sourceType": "url",
+        "sourceUrl": "https://service.golfleague.net/lm/72698/8/results/player_standings_by_points-03.html?1784159290856",
+        "sourceFetchedAt": "2026-07-17T22:13:31.304Z",
         "id": "event-3-1783015007899"
       },
       {
@@ -5405,6 +5414,9 @@
             "position": 19
           }
         ],
+        "sourceType": "url",
+        "sourceUrl": "https://service.golfleague.net/lm/72698/8/results/player_standings_by_points-04.html?1784159290856",
+        "sourceFetchedAt": "2026-07-17T22:13:31.269Z",
         "id": "event-4-1783015008243"
       },
       {
@@ -6757,6 +6769,9 @@
             "position": 19
           }
         ],
+        "sourceType": "url",
+        "sourceUrl": "https://service.golfleague.net/lm/72698/8/results/player_standings_by_points-05.html?1784159290856",
+        "sourceFetchedAt": "2026-07-17T22:13:31.235Z",
         "id": "event-5-1783015008582"
       },
       {
@@ -8119,6 +8134,9 @@
             "position": 21
           }
         ],
+        "sourceType": "url",
+        "sourceUrl": "https://service.golfleague.net/lm/72698/8/results/player_standings_by_points-06.html?1784159290856",
+        "sourceFetchedAt": "2026-07-17T22:13:31.200Z",
         "id": "event-6-1783015008888"
       },
       {
@@ -9481,6 +9499,9 @@
             "position": 21
           }
         ],
+        "sourceType": "url",
+        "sourceUrl": "https://service.golfleague.net/lm/72698/8/results/player_standings_by_points-07.html?1784159290856",
+        "sourceFetchedAt": "2026-07-17T22:13:31.163Z",
         "id": "event-7-1783015009234"
       },
       {
@@ -9488,6 +9509,35 @@
         "eventDate": "6/10/2025",
         "nineHoles": "back",
         "players": [
+          {
+            "position": 1,
+            "playerName": "Charron, Bill",
+            "holes": [
+              5,
+              4,
+              3,
+              5,
+              4,
+              6,
+              5,
+              5,
+              4
+            ],
+            "grossScore": 41,
+            "handicap": 6,
+            "netScore": 35,
+            "points": 290,
+            "bonusPoints": 0,
+            "totalPoints": 1645,
+            "eagles": 3,
+            "birdies": 8,
+            "pars": 3,
+            "bogeys": 3,
+            "doubleBogeys": 0,
+            "tripleBogeys": 0,
+            "other": 0,
+            "didNotPlay": false
+          },
           {
             "position": 1,
             "playerName": "Skene, Bill",
@@ -9505,9 +9555,9 @@
             "grossScore": 36,
             "handicap": 1,
             "netScore": 35,
-            "points": 295,
+            "points": 290,
             "bonusPoints": 0,
-            "totalPoints": 1430,
+            "totalPoints": 1425,
             "eagles": 3,
             "birdies": 13,
             "pars": 2,
@@ -9534,9 +9584,9 @@
             "grossScore": 37,
             "handicap": 2,
             "netScore": 35,
-            "points": 295,
+            "points": 290,
             "bonusPoints": 0,
-            "totalPoints": 1530,
+            "totalPoints": 1525,
             "eagles": 3,
             "birdies": 12,
             "pars": 3,
@@ -9547,7 +9597,7 @@
             "didNotPlay": false
           },
           {
-            "position": 3,
+            "position": 4,
             "playerName": "Follbaum, Ray",
             "holes": [
               5,
@@ -9563,9 +9613,9 @@
             "grossScore": 42,
             "handicap": 5,
             "netScore": 37,
-            "points": 255,
+            "points": 245,
             "bonusPoints": 0,
-            "totalPoints": 1535,
+            "totalPoints": 1525,
             "eagles": 3,
             "birdies": 6,
             "pars": 8,
@@ -9576,7 +9626,7 @@
             "didNotPlay": false
           },
           {
-            "position": 3,
+            "position": 4,
             "playerName": "Doyle, Todd",
             "holes": [
               5,
@@ -9592,9 +9642,9 @@
             "grossScore": 39,
             "handicap": 2,
             "netScore": 37,
-            "points": 255,
+            "points": 245,
             "bonusPoints": 0,
-            "totalPoints": 1410,
+            "totalPoints": 1400,
             "eagles": 2,
             "birdies": 10,
             "pars": 6,
@@ -9605,7 +9655,7 @@
             "didNotPlay": false
           },
           {
-            "position": 5,
+            "position": 6,
             "playerName": "Marcott, Jason",
             "holes": [
               5,
@@ -9621,9 +9671,9 @@
             "grossScore": 41,
             "handicap": 3,
             "netScore": 38,
-            "points": 220,
+            "points": 210,
             "bonusPoints": 0,
-            "totalPoints": 1295,
+            "totalPoints": 1285,
             "eagles": 1,
             "birdies": 10,
             "pars": 6,
@@ -9634,7 +9684,7 @@
             "didNotPlay": false
           },
           {
-            "position": 6,
+            "position": 7,
             "playerName": "Cloutier, Jeff",
             "holes": [
               4,
@@ -9650,9 +9700,9 @@
             "grossScore": 45,
             "handicap": 7,
             "netScore": 38,
-            "points": 210,
+            "points": 200,
             "bonusPoints": 0,
-            "totalPoints": 1595,
+            "totalPoints": 1585,
             "eagles": 1,
             "birdies": 9,
             "pars": 5,
@@ -9663,7 +9713,7 @@
             "didNotPlay": false
           },
           {
-            "position": 7,
+            "position": 8,
             "playerName": "Muck, Kelly",
             "holes": [
               4,
@@ -9679,9 +9729,9 @@
             "grossScore": 45,
             "handicap": 7,
             "netScore": 38,
-            "points": 200,
+            "points": 190,
             "bonusPoints": 0,
-            "totalPoints": 1185,
+            "totalPoints": 1175,
             "eagles": 2,
             "birdies": 8,
             "pars": 4,
@@ -9692,7 +9742,7 @@
             "didNotPlay": false
           },
           {
-            "position": 8,
+            "position": 9,
             "playerName": "Boros, Jason",
             "holes": [
               5,
@@ -9708,9 +9758,9 @@
             "grossScore": 44,
             "handicap": 5,
             "netScore": 39,
-            "points": 185,
+            "points": 175,
             "bonusPoints": 0,
-            "totalPoints": 1425,
+            "totalPoints": 1415,
             "eagles": 0,
             "birdies": 9,
             "pars": 7,
@@ -9721,7 +9771,7 @@
             "didNotPlay": false
           },
           {
-            "position": 9,
+            "position": 10,
             "playerName": "Charron, Dan",
             "holes": [
               7,
@@ -9737,9 +9787,9 @@
             "grossScore": 45,
             "handicap": 6,
             "netScore": 39,
-            "points": 175,
+            "points": 165,
             "bonusPoints": 0,
-            "totalPoints": 1510,
+            "totalPoints": 1500,
             "eagles": 3,
             "birdies": 4,
             "pars": 4,
@@ -9750,7 +9800,7 @@
             "didNotPlay": false
           },
           {
-            "position": 10,
+            "position": 11,
             "playerName": "Urbanski, Jeff",
             "holes": [
               5,
@@ -9766,9 +9816,9 @@
             "grossScore": 42,
             "handicap": 2,
             "netScore": 40,
-            "points": 145,
+            "points": 135,
             "bonusPoints": 0,
-            "totalPoints": 1480,
+            "totalPoints": 1470,
             "eagles": 1,
             "birdies": 8,
             "pars": 7,
@@ -9779,7 +9829,7 @@
             "didNotPlay": false
           },
           {
-            "position": 10,
+            "position": 11,
             "playerName": "Fuleky, Joe",
             "holes": [
               5,
@@ -9795,9 +9845,9 @@
             "grossScore": 42,
             "handicap": 2,
             "netScore": 40,
-            "points": 145,
+            "points": 135,
             "bonusPoints": 0,
-            "totalPoints": 700,
+            "totalPoints": 690,
             "eagles": 3,
             "birdies": 4,
             "pars": 9,
@@ -9808,7 +9858,7 @@
             "didNotPlay": false
           },
           {
-            "position": 12,
+            "position": 13,
             "playerName": "Hamilton, Matt",
             "holes": [
               5,
@@ -9824,9 +9874,9 @@
             "grossScore": 43,
             "handicap": 2,
             "netScore": 41,
-            "points": 125,
+            "points": 115,
             "bonusPoints": 0,
-            "totalPoints": 1630,
+            "totalPoints": 1620,
             "eagles": 1,
             "birdies": 4,
             "pars": 13,
@@ -9837,7 +9887,7 @@
             "didNotPlay": false
           },
           {
-            "position": 13,
+            "position": 14,
             "playerName": "Scharboneau, Mark",
             "holes": [
               5,
@@ -9853,9 +9903,9 @@
             "grossScore": 44,
             "handicap": 3,
             "netScore": 41,
-            "points": 115,
+            "points": 105,
             "bonusPoints": 0,
-            "totalPoints": 1620,
+            "totalPoints": 1610,
             "eagles": 3,
             "birdies": 3,
             "pars": 8,
@@ -9866,7 +9916,7 @@
             "didNotPlay": false
           },
           {
-            "position": 14,
+            "position": 15,
             "playerName": "Miller, Josh",
             "holes": [
               5,
@@ -9882,9 +9932,9 @@
             "grossScore": 49,
             "handicap": 7,
             "netScore": 42,
-            "points": 90,
+            "points": 80,
             "bonusPoints": 0,
-            "totalPoints": 640,
+            "totalPoints": 630,
             "eagles": 0,
             "birdies": 4,
             "pars": 10,
@@ -9895,7 +9945,7 @@
             "didNotPlay": false
           },
           {
-            "position": 15,
+            "position": 16,
             "playerName": "Kaczor, Michael",
             "holes": [
               7,
@@ -9911,9 +9961,9 @@
             "grossScore": 49,
             "handicap": 6,
             "netScore": 43,
-            "points": 80,
+            "points": 70,
             "bonusPoints": 0,
-            "totalPoints": 1145,
+            "totalPoints": 1135,
             "eagles": 3,
             "birdies": 6,
             "pars": 2,
@@ -9924,7 +9974,7 @@
             "didNotPlay": false
           },
           {
-            "position": 16,
+            "position": 17,
             "playerName": "Szczepaniak, Matt",
             "holes": [
               5,
@@ -9940,9 +9990,9 @@
             "grossScore": 51,
             "handicap": 7,
             "netScore": 44,
-            "points": 50,
+            "points": 40,
             "bonusPoints": 0,
-            "totalPoints": 330,
+            "totalPoints": 320,
             "eagles": 0,
             "birdies": 4,
             "pars": 8,
@@ -9953,36 +10003,7 @@
             "didNotPlay": false
           },
           {
-            "position": 17,
-            "playerName": "Charron, Bill",
-            "holes": [
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null
-            ],
-            "grossScore": null,
-            "handicap": 6,
-            "netScore": null,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 1355,
-            "eagles": 0,
-            "birdies": 0,
-            "pars": 0,
-            "bogeys": 0,
-            "doubleBogeys": 0,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": true
-          },
-          {
-            "position": 17,
+            "position": 18,
             "playerName": "Block, Todd",
             "holes": [
               null,
@@ -10027,9 +10048,9 @@
             "grossScore": 55,
             "handicap": 7,
             "netScore": 48,
-            "points": -10,
+            "points": -20,
             "bonusPoints": 0,
-            "totalPoints": -70,
+            "totalPoints": -80,
             "eagles": 0,
             "birdies": 1,
             "pars": 6,
@@ -10738,94 +10759,94 @@
         ],
         "standings": [
           {
-            "playerName": "Hamilton, Matt",
-            "cumulativePoints": 1630,
+            "playerName": "Charron, Bill",
+            "cumulativePoints": 1645,
             "position": 1
           },
           {
-            "playerName": "Scharboneau, Mark",
+            "playerName": "Hamilton, Matt",
             "cumulativePoints": 1620,
             "position": 2
           },
           {
-            "playerName": "Cloutier, Jeff",
-            "cumulativePoints": 1595,
+            "playerName": "Scharboneau, Mark",
+            "cumulativePoints": 1610,
             "position": 3
           },
           {
-            "playerName": "Follbaum, Ray",
-            "cumulativePoints": 1535,
+            "playerName": "Cloutier, Jeff",
+            "cumulativePoints": 1585,
             "position": 4
           },
           {
             "playerName": "Dubes, Austin",
-            "cumulativePoints": 1530,
+            "cumulativePoints": 1525,
+            "position": 5
+          },
+          {
+            "playerName": "Follbaum, Ray",
+            "cumulativePoints": 1525,
             "position": 5
           },
           {
             "playerName": "Charron, Dan",
-            "cumulativePoints": 1510,
-            "position": 6
-          },
-          {
-            "playerName": "Urbanski, Jeff",
-            "cumulativePoints": 1480,
+            "cumulativePoints": 1500,
             "position": 7
           },
           {
-            "playerName": "Skene, Bill",
-            "cumulativePoints": 1430,
+            "playerName": "Urbanski, Jeff",
+            "cumulativePoints": 1470,
             "position": 8
           },
           {
-            "playerName": "Boros, Jason",
+            "playerName": "Skene, Bill",
             "cumulativePoints": 1425,
             "position": 9
           },
           {
-            "playerName": "Doyle, Todd",
-            "cumulativePoints": 1410,
+            "playerName": "Boros, Jason",
+            "cumulativePoints": 1415,
             "position": 10
           },
           {
-            "playerName": "Charron, Bill",
-            "cumulativePoints": 1355,
+            "playerName": "Doyle, Todd",
+            "cumulativePoints": 1400,
             "position": 11
           },
           {
             "playerName": "Marcott, Jason",
-            "cumulativePoints": 1295,
+            "cumulativePoints": 1285,
             "position": 12
           },
           {
             "playerName": "Muck, Kelly",
-            "cumulativePoints": 1185,
+            "cumulativePoints": 1175,
             "position": 13
           },
           {
             "playerName": "Kaczor, Michael",
-            "cumulativePoints": 1145,
+            "cumulativePoints": 1135,
             "position": 14
           },
           {
             "playerName": "Fuleky, Joe",
-            "cumulativePoints": 700,
+            "cumulativePoints": 690,
             "position": 15
           },
           {
             "playerName": "Miller, Josh",
-            "cumulativePoints": 640,
+            "cumulativePoints": 630,
             "position": 16
-          },
-          {
-            "playerName": "Szczepaniak, Matt",
-            "cumulativePoints": 330,
-            "position": 17
           },
           {
             "playerName": "Cheslick, Tony",
             "cumulativePoints": 320,
-            "position": 18
+            "position": 17
+          },
+          {
+            "playerName": "Szczepaniak, Matt",
+            "cumulativePoints": 320,
+            "position": 17
           },
           {
             "playerName": "Marcott, Dave",
@@ -10839,7 +10860,7 @@
           },
           {
             "playerName": "Watson, Dave",
-            "cumulativePoints": -70,
+            "cumulativePoints": -80,
             "position": 21
           },
           {
@@ -10848,6 +10869,9 @@
             "position": 22
           }
         ],
+        "sourceType": "url",
+        "sourceUrl": "https://service.golfleague.net/lm/72698/8/results/player_standings_by_points-08.html?1784159290856",
+        "sourceFetchedAt": "2026-07-17T22:13:31.130Z",
         "id": "event-8-1783015009695"
       },
       {
@@ -10874,7 +10898,7 @@
             "netScore": 35,
             "points": 295,
             "bonusPoints": 0,
-            "totalPoints": 1725,
+            "totalPoints": 1720,
             "eagles": 5,
             "birdies": 5,
             "pars": 4,
@@ -10903,7 +10927,7 @@
             "netScore": 35,
             "points": 295,
             "bonusPoints": 0,
-            "totalPoints": 1590,
+            "totalPoints": 1580,
             "eagles": 4,
             "birdies": 9,
             "pars": 5,
@@ -10932,7 +10956,7 @@
             "netScore": 36,
             "points": 270,
             "bonusPoints": 0,
-            "totalPoints": 1680,
+            "totalPoints": 1670,
             "eagles": 1,
             "birdies": 8,
             "pars": 7,
@@ -10961,7 +10985,7 @@
             "netScore": 36,
             "points": 250,
             "bonusPoints": 0,
-            "totalPoints": 1675,
+            "totalPoints": 1665,
             "eagles": 3,
             "birdies": 8,
             "pars": 5,
@@ -10990,7 +11014,7 @@
             "netScore": 36,
             "points": 250,
             "bonusPoints": 0,
-            "totalPoints": 890,
+            "totalPoints": 880,
             "eagles": 3,
             "birdies": 7,
             "pars": 6,
@@ -11019,7 +11043,7 @@
             "netScore": 37,
             "points": 220,
             "bonusPoints": 0,
-            "totalPoints": 1750,
+            "totalPoints": 1745,
             "eagles": 3,
             "birdies": 8,
             "pars": 7,
@@ -11048,7 +11072,7 @@
             "netScore": 37,
             "points": 220,
             "bonusPoints": 0,
-            "totalPoints": 1755,
+            "totalPoints": 1745,
             "eagles": 3,
             "birdies": 6,
             "pars": 8,
@@ -11077,7 +11101,7 @@
             "netScore": 37,
             "points": 210,
             "bonusPoints": 0,
-            "totalPoints": 910,
+            "totalPoints": 900,
             "eagles": 2,
             "birdies": 12,
             "pars": 2,
@@ -11106,7 +11130,7 @@
             "netScore": 38,
             "points": 185,
             "bonusPoints": 0,
-            "totalPoints": 1805,
+            "totalPoints": 1795,
             "eagles": 1,
             "birdies": 10,
             "pars": 6,
@@ -11135,7 +11159,7 @@
             "netScore": 38,
             "points": 185,
             "bonusPoints": 0,
-            "totalPoints": 1815,
+            "totalPoints": 1805,
             "eagles": 3,
             "birdies": 7,
             "pars": 7,
@@ -11164,7 +11188,7 @@
             "netScore": 39,
             "points": 140,
             "bonusPoints": 0,
-            "totalPoints": 1620,
+            "totalPoints": 1610,
             "eagles": 3,
             "birdies": 8,
             "pars": 3,
@@ -11193,7 +11217,7 @@
             "netScore": 40,
             "points": 130,
             "bonusPoints": 0,
-            "totalPoints": 1485,
+            "totalPoints": 1775,
             "eagles": 1,
             "birdies": 5,
             "pars": 10,
@@ -11222,7 +11246,7 @@
             "netScore": 41,
             "points": 105,
             "bonusPoints": 0,
-            "totalPoints": 1290,
+            "totalPoints": 1280,
             "eagles": 0,
             "birdies": 5,
             "pars": 10,
@@ -11251,7 +11275,7 @@
             "netScore": 41,
             "points": 105,
             "bonusPoints": 0,
-            "totalPoints": 1700,
+            "totalPoints": 1690,
             "eagles": 0,
             "birdies": 5,
             "pars": 9,
@@ -11280,7 +11304,7 @@
             "netScore": 42,
             "points": 80,
             "bonusPoints": 0,
-            "totalPoints": 1590,
+            "totalPoints": 1580,
             "eagles": 1,
             "birdies": 6,
             "pars": 6,
@@ -11309,7 +11333,7 @@
             "netScore": 43,
             "points": 70,
             "bonusPoints": 0,
-            "totalPoints": 1215,
+            "totalPoints": 1205,
             "eagles": 1,
             "birdies": 6,
             "pars": 6,
@@ -11367,7 +11391,7 @@
             "netScore": null,
             "points": 0,
             "bonusPoints": 0,
-            "totalPoints": 330,
+            "totalPoints": 320,
             "eagles": 0,
             "birdies": 0,
             "pars": 0,
@@ -11396,7 +11420,7 @@
             "netScore": 48,
             "points": -20,
             "bonusPoints": 0,
-            "totalPoints": -90,
+            "totalPoints": -100,
             "eagles": 0,
             "birdies": 2,
             "pars": 6,
@@ -12106,93 +12130,93 @@
         "standings": [
           {
             "playerName": "Hamilton, Matt",
-            "cumulativePoints": 1815,
+            "cumulativePoints": 1805,
             "position": 1
           },
           {
             "playerName": "Scharboneau, Mark",
-            "cumulativePoints": 1805,
+            "cumulativePoints": 1795,
             "position": 2
           },
           {
-            "playerName": "Follbaum, Ray",
-            "cumulativePoints": 1755,
+            "playerName": "Charron, Bill",
+            "cumulativePoints": 1775,
             "position": 3
           },
           {
             "playerName": "Dubes, Austin",
-            "cumulativePoints": 1750,
+            "cumulativePoints": 1745,
+            "position": 4
+          },
+          {
+            "playerName": "Follbaum, Ray",
+            "cumulativePoints": 1745,
             "position": 4
           },
           {
             "playerName": "Skene, Bill",
-            "cumulativePoints": 1725,
-            "position": 5
-          },
-          {
-            "playerName": "Cloutier, Jeff",
-            "cumulativePoints": 1700,
+            "cumulativePoints": 1720,
             "position": 6
           },
           {
-            "playerName": "Doyle, Todd",
-            "cumulativePoints": 1680,
+            "playerName": "Cloutier, Jeff",
+            "cumulativePoints": 1690,
             "position": 7
           },
           {
-            "playerName": "Boros, Jason",
-            "cumulativePoints": 1675,
+            "playerName": "Doyle, Todd",
+            "cumulativePoints": 1670,
             "position": 8
           },
           {
-            "playerName": "Urbanski, Jeff",
-            "cumulativePoints": 1620,
+            "playerName": "Boros, Jason",
+            "cumulativePoints": 1665,
             "position": 9
           },
           {
-            "playerName": "Charron, Dan",
-            "cumulativePoints": 1590,
+            "playerName": "Urbanski, Jeff",
+            "cumulativePoints": 1610,
             "position": 10
+          },
+          {
+            "playerName": "Charron, Dan",
+            "cumulativePoints": 1580,
+            "position": 11
           },
           {
             "playerName": "Marcott, Jason",
-            "cumulativePoints": 1590,
-            "position": 10
-          },
-          {
-            "playerName": "Charron, Bill",
-            "cumulativePoints": 1485,
-            "position": 12
+            "cumulativePoints": 1580,
+            "position": 11
           },
           {
             "playerName": "Muck, Kelly",
-            "cumulativePoints": 1290,
+            "cumulativePoints": 1280,
             "position": 13
           },
           {
             "playerName": "Kaczor, Michael",
-            "cumulativePoints": 1215,
+            "cumulativePoints": 1205,
             "position": 14
           },
           {
             "playerName": "Fuleky, Joe",
-            "cumulativePoints": 910,
+            "cumulativePoints": 900,
             "position": 15
           },
           {
             "playerName": "Miller, Josh",
-            "cumulativePoints": 890,
+            "cumulativePoints": 880,
             "position": 16
-          },
-          {
-            "playerName": "Szczepaniak, Matt",
-            "cumulativePoints": 330,
-            "position": 17
           },
           {
             "playerName": "Cheslick, Tony",
             "cumulativePoints": 320,
-            "position": 18
+            "position": 17
+          },
+          {
+            "playerName": "Szczepaniak, Matt",
+            "cumulativePoints": 320,
+            "position": 17
           },
           {
             "playerName": "Marcott, Dave",
@@ -12206,7 +12230,7 @@
           },
           {
             "playerName": "Watson, Dave",
-            "cumulativePoints": -90,
+            "cumulativePoints": -100,
             "position": 21
           },
           {
@@ -12215,6 +12239,9 @@
             "position": 22
           }
         ],
+        "sourceType": "url",
+        "sourceUrl": "https://service.golfleague.net/lm/72698/8/results/player_standings_by_points-09.html?1784159290856",
+        "sourceFetchedAt": "2026-07-17T22:13:31.047Z",
         "id": "event-9-1783015010032"
       },
       {
@@ -12241,7 +12268,7 @@
             "netScore": 35,
             "points": 295,
             "bonusPoints": 0,
-            "totalPoints": 2100,
+            "totalPoints": 2090,
             "eagles": 3,
             "birdies": 11,
             "pars": 4,
@@ -12270,7 +12297,7 @@
             "netScore": 35,
             "points": 295,
             "bonusPoints": 0,
-            "totalPoints": 1915,
+            "totalPoints": 1905,
             "eagles": 4,
             "birdies": 10,
             "pars": 4,
@@ -12299,7 +12326,7 @@
             "netScore": 36,
             "points": 280,
             "bonusPoints": 0,
-            "totalPoints": 2030,
+            "totalPoints": 2025,
             "eagles": 3,
             "birdies": 8,
             "pars": 5,
@@ -12328,7 +12355,7 @@
             "netScore": 37,
             "points": 255,
             "bonusPoints": 0,
-            "totalPoints": 1980,
+            "totalPoints": 1975,
             "eagles": 5,
             "birdies": 8,
             "pars": 2,
@@ -12357,7 +12384,7 @@
             "netScore": 37,
             "points": 235,
             "bonusPoints": 0,
-            "totalPoints": 1910,
+            "totalPoints": 1900,
             "eagles": 2,
             "birdies": 7,
             "pars": 7,
@@ -12386,7 +12413,7 @@
             "netScore": 37,
             "points": 235,
             "bonusPoints": 0,
-            "totalPoints": 1915,
+            "totalPoints": 1905,
             "eagles": 2,
             "birdies": 9,
             "pars": 4,
@@ -12415,7 +12442,7 @@
             "netScore": 37,
             "points": 225,
             "bonusPoints": 0,
-            "totalPoints": 1980,
+            "totalPoints": 1970,
             "eagles": 6,
             "birdies": 3,
             "pars": 5,
@@ -12427,6 +12454,35 @@
           },
           {
             "position": 8,
+            "playerName": "Marcott, Jason",
+            "holes": [
+              4,
+              4,
+              4,
+              6,
+              5,
+              4,
+              6,
+              3,
+              5
+            ],
+            "grossScore": 41,
+            "handicap": 3,
+            "netScore": 38,
+            "points": 200,
+            "bonusPoints": 0,
+            "totalPoints": 1780,
+            "eagles": 1,
+            "birdies": 9,
+            "pars": 8,
+            "bogeys": 0,
+            "doubleBogeys": 0,
+            "tripleBogeys": 0,
+            "other": 0,
+            "didNotPlay": false
+          },
+          {
+            "position": 9,
             "playerName": "Muck, Kelly",
             "holes": [
               5,
@@ -12442,9 +12498,9 @@
             "grossScore": 46,
             "handicap": 7,
             "netScore": 39,
-            "points": 180,
+            "points": 170,
             "bonusPoints": 0,
-            "totalPoints": 1470,
+            "totalPoints": 1450,
             "eagles": 2,
             "birdies": 5,
             "pars": 5,
@@ -12455,7 +12511,7 @@
             "didNotPlay": false
           },
           {
-            "position": 9,
+            "position": 10,
             "playerName": "Hamilton, Matt",
             "holes": [
               3,
@@ -12471,9 +12527,9 @@
             "grossScore": 42,
             "handicap": 2,
             "netScore": 40,
-            "points": 155,
+            "points": 145,
             "bonusPoints": 0,
-            "totalPoints": 1970,
+            "totalPoints": 1950,
             "eagles": 3,
             "birdies": 4,
             "pars": 9,
@@ -12484,7 +12540,7 @@
             "didNotPlay": false
           },
           {
-            "position": 9,
+            "position": 10,
             "playerName": "Cloutier, Jeff",
             "holes": [
               5,
@@ -12500,9 +12556,9 @@
             "grossScore": 47,
             "handicap": 7,
             "netScore": 40,
-            "points": 155,
+            "points": 145,
             "bonusPoints": 0,
-            "totalPoints": 1855,
+            "totalPoints": 1835,
             "eagles": 1,
             "birdies": 6,
             "pars": 7,
@@ -12513,7 +12569,7 @@
             "didNotPlay": false
           },
           {
-            "position": 11,
+            "position": 12,
             "playerName": "Miller, Josh",
             "holes": [
               4,
@@ -12529,9 +12585,9 @@
             "grossScore": 48,
             "handicap": 7,
             "netScore": 41,
-            "points": 130,
+            "points": 120,
             "bonusPoints": 0,
-            "totalPoints": 1020,
+            "totalPoints": 1000,
             "eagles": 2,
             "birdies": 6,
             "pars": 5,
@@ -12542,7 +12598,7 @@
             "didNotPlay": false
           },
           {
-            "position": 12,
+            "position": 13,
             "playerName": "Fuleky, Joe",
             "holes": [
               5,
@@ -12558,9 +12614,9 @@
             "grossScore": 44,
             "handicap": 2,
             "netScore": 42,
-            "points": 120,
+            "points": 110,
             "bonusPoints": 0,
-            "totalPoints": 1030,
+            "totalPoints": 1010,
             "eagles": 2,
             "birdies": 3,
             "pars": 8,
@@ -12571,7 +12627,7 @@
             "didNotPlay": false
           },
           {
-            "position": 13,
+            "position": 14,
             "playerName": "Kaczor, Michael",
             "holes": [
               5,
@@ -12587,9 +12643,9 @@
             "grossScore": 52,
             "handicap": 6,
             "netScore": 46,
-            "points": 40,
+            "points": 30,
             "bonusPoints": 0,
-            "totalPoints": 1255,
+            "totalPoints": 1235,
             "eagles": 1,
             "birdies": 4,
             "pars": 4,
@@ -12600,7 +12656,7 @@
             "didNotPlay": false
           },
           {
-            "position": 14,
+            "position": 15,
             "playerName": "Charron, Dan",
             "holes": [
               null,
@@ -12618,7 +12674,7 @@
             "netScore": null,
             "points": 0,
             "bonusPoints": 0,
-            "totalPoints": 1590,
+            "totalPoints": 1580,
             "eagles": 0,
             "birdies": 0,
             "pars": 0,
@@ -12629,7 +12685,7 @@
             "didNotPlay": true
           },
           {
-            "position": 14,
+            "position": 15,
             "playerName": "Charron, Bill",
             "holes": [
               null,
@@ -12647,7 +12703,7 @@
             "netScore": null,
             "points": 0,
             "bonusPoints": 0,
-            "totalPoints": 1485,
+            "totalPoints": 1775,
             "eagles": 0,
             "birdies": 0,
             "pars": 0,
@@ -12658,36 +12714,7 @@
             "didNotPlay": true
           },
           {
-            "position": 14,
-            "playerName": "Marcott, Jason",
-            "holes": [
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null
-            ],
-            "grossScore": null,
-            "handicap": 3,
-            "netScore": null,
-            "points": 0,
-            "bonusPoints": 0,
-            "totalPoints": 1590,
-            "eagles": 0,
-            "birdies": 0,
-            "pars": 0,
-            "bogeys": 0,
-            "doubleBogeys": 0,
-            "tripleBogeys": 0,
-            "other": 0,
-            "didNotPlay": true
-          },
-          {
-            "position": 14,
+            "position": 15,
             "playerName": "Watson, Dave",
             "holes": [
               null,
@@ -12705,7 +12732,7 @@
             "netScore": null,
             "points": 0,
             "bonusPoints": 0,
-            "totalPoints": -90,
+            "totalPoints": -100,
             "eagles": 0,
             "birdies": 0,
             "pars": 0,
@@ -12716,7 +12743,7 @@
             "didNotPlay": true
           },
           {
-            "position": 14,
+            "position": 15,
             "playerName": "Szczepaniak, Matt",
             "holes": [
               null,
@@ -12734,7 +12761,7 @@
             "netScore": null,
             "points": 0,
             "bonusPoints": 0,
-            "totalPoints": 330,
+            "totalPoints": 320,
             "eagles": 0,
             "birdies": 0,
             "pars": 0,
@@ -12761,9 +12788,9 @@
             "grossScore": 57,
             "handicap": 7,
             "netScore": 50,
-            "points": -40,
+            "points": -50,
             "bonusPoints": 0,
-            "totalPoints": -225,
+            "totalPoints": -235,
             "eagles": 1,
             "birdies": 3,
             "pars": 0,
@@ -13473,82 +13500,82 @@
         "standings": [
           {
             "playerName": "Scharboneau, Mark",
-            "cumulativePoints": 2100,
+            "cumulativePoints": 2090,
             "position": 1
           },
           {
             "playerName": "Dubes, Austin",
-            "cumulativePoints": 2030,
+            "cumulativePoints": 2025,
             "position": 2
           },
           {
-            "playerName": "Follbaum, Ray",
-            "cumulativePoints": 1980,
+            "playerName": "Skene, Bill",
+            "cumulativePoints": 1975,
             "position": 3
           },
           {
-            "playerName": "Skene, Bill",
-            "cumulativePoints": 1980,
-            "position": 3
+            "playerName": "Follbaum, Ray",
+            "cumulativePoints": 1970,
+            "position": 4
           },
           {
             "playerName": "Hamilton, Matt",
-            "cumulativePoints": 1970,
+            "cumulativePoints": 1950,
             "position": 5
           },
           {
             "playerName": "Doyle, Todd",
-            "cumulativePoints": 1915,
+            "cumulativePoints": 1905,
             "position": 6
           },
           {
             "playerName": "Urbanski, Jeff",
-            "cumulativePoints": 1915,
+            "cumulativePoints": 1905,
             "position": 6
           },
           {
             "playerName": "Boros, Jason",
-            "cumulativePoints": 1910,
+            "cumulativePoints": 1900,
             "position": 8
           },
           {
             "playerName": "Cloutier, Jeff",
-            "cumulativePoints": 1855,
+            "cumulativePoints": 1835,
             "position": 9
           },
           {
-            "playerName": "Charron, Dan",
-            "cumulativePoints": 1590,
-            "position": 10
-          },
-          {
             "playerName": "Marcott, Jason",
-            "cumulativePoints": 1590,
+            "cumulativePoints": 1780,
             "position": 10
           },
           {
             "playerName": "Charron, Bill",
-            "cumulativePoints": 1485,
+            "cumulativePoints": 1775,
+            "position": 11
+          },
+          {
+            "playerName": "Charron, Dan",
+            "cumulativePoints": 1580,
             "position": 12
           },
           {
             "playerName": "Muck, Kelly",
-            "cumulativePoints": 1470,
+            "cumulativePoints": 1450,
             "position": 13
           },
           {
             "playerName": "Kaczor, Michael",
-            "cumulativePoints": 1255,
+            "cumulativePoints": 1235,
             "position": 14
           },
           {
             "playerName": "Fuleky, Joe",
-            "cumulativePoints": 1030,
+            "cumulativePoints": 1010,
             "position": 15
           },
           {
             "playerName": "Miller, Josh",
-            "cumulativePoints": 1020,
+            "cumulativePoints": 1000,
             "position": 16
           },
           {
@@ -13557,14 +13584,14 @@
             "position": 17
           },
           {
-            "playerName": "Szczepaniak, Matt",
-            "cumulativePoints": 330,
+            "playerName": "Cheslick, Tony",
+            "cumulativePoints": 320,
             "position": 18
           },
           {
-            "playerName": "Cheslick, Tony",
+            "playerName": "Szczepaniak, Matt",
             "cumulativePoints": 320,
-            "position": 19
+            "position": 18
           },
           {
             "playerName": "Snow, Joe",
@@ -13573,15 +13600,18 @@
           },
           {
             "playerName": "Watson, Dave",
-            "cumulativePoints": -90,
+            "cumulativePoints": -100,
             "position": 21
           },
           {
             "playerName": "Block, Todd",
-            "cumulativePoints": -225,
+            "cumulativePoints": -235,
             "position": 22
           }
         ],
+        "sourceType": "url",
+        "sourceUrl": "https://service.golfleague.net/lm/72698/8/results/player_standings_by_points-10.html?1784159290856",
+        "sourceFetchedAt": "2026-07-17T22:13:31.012Z",
         "id": "event-10-1783015010370"
       },
       {
@@ -13608,7 +13638,7 @@
             "netScore": 35,
             "points": 280,
             "bonusPoints": 0,
-            "totalPoints": 2190,
+            "totalPoints": 2180,
             "eagles": 5,
             "birdies": 9,
             "pars": 0,
@@ -13637,7 +13667,7 @@
             "netScore": 36,
             "points": 270,
             "bonusPoints": 0,
-            "totalPoints": 2250,
+            "totalPoints": 2240,
             "eagles": 2,
             "birdies": 11,
             "pars": 3,
@@ -13666,7 +13696,7 @@
             "netScore": 37,
             "points": 255,
             "bonusPoints": 0,
-            "totalPoints": 2235,
+            "totalPoints": 2230,
             "eagles": 2,
             "birdies": 12,
             "pars": 4,
@@ -13695,7 +13725,7 @@
             "netScore": 37,
             "points": 245,
             "bonusPoints": 0,
-            "totalPoints": 2275,
+            "totalPoints": 2270,
             "eagles": 1,
             "birdies": 14,
             "pars": 1,
@@ -13724,7 +13754,7 @@
             "netScore": 38,
             "points": 220,
             "bonusPoints": 0,
-            "totalPoints": 1810,
+            "totalPoints": 2000,
             "eagles": 3,
             "birdies": 7,
             "pars": 6,
@@ -13753,7 +13783,7 @@
             "netScore": 39,
             "points": 195,
             "bonusPoints": 0,
-            "totalPoints": 2165,
+            "totalPoints": 2145,
             "eagles": 1,
             "birdies": 11,
             "pars": 3,
@@ -13782,7 +13812,7 @@
             "netScore": 39,
             "points": 185,
             "bonusPoints": 0,
-            "totalPoints": 1655,
+            "totalPoints": 1635,
             "eagles": 2,
             "birdies": 6,
             "pars": 6,
@@ -13811,7 +13841,7 @@
             "netScore": 40,
             "points": 180,
             "bonusPoints": 0,
-            "totalPoints": 1210,
+            "totalPoints": 1190,
             "eagles": 3,
             "birdies": 7,
             "pars": 6,
@@ -13840,7 +13870,7 @@
             "netScore": 41,
             "points": 150,
             "bonusPoints": 0,
-            "totalPoints": 2065,
+            "totalPoints": 2055,
             "eagles": 1,
             "birdies": 4,
             "pars": 13,
@@ -13869,7 +13899,7 @@
             "netScore": 41,
             "points": 150,
             "bonusPoints": 0,
-            "totalPoints": 2005,
+            "totalPoints": 1985,
             "eagles": 0,
             "birdies": 8,
             "pars": 7,
@@ -13898,7 +13928,7 @@
             "netScore": 41,
             "points": 140,
             "bonusPoints": 0,
-            "totalPoints": 1625,
+            "totalPoints": 1915,
             "eagles": 3,
             "birdies": 2,
             "pars": 8,
@@ -13927,7 +13957,7 @@
             "netScore": 42,
             "points": 110,
             "bonusPoints": 0,
-            "totalPoints": 440,
+            "totalPoints": 430,
             "eagles": 1,
             "birdies": 4,
             "pars": 7,
@@ -13956,7 +13986,7 @@
             "netScore": 43,
             "points": 85,
             "bonusPoints": 0,
-            "totalPoints": 2185,
+            "totalPoints": 2175,
             "eagles": 0,
             "birdies": 5,
             "pars": 11,
@@ -13985,7 +14015,7 @@
             "netScore": 43,
             "points": 85,
             "bonusPoints": 0,
-            "totalPoints": 1340,
+            "totalPoints": 1320,
             "eagles": 2,
             "birdies": 5,
             "pars": 2,
@@ -14014,7 +14044,7 @@
             "netScore": 45,
             "points": 45,
             "bonusPoints": 0,
-            "totalPoints": 1635,
+            "totalPoints": 1625,
             "eagles": 1,
             "birdies": 1,
             "pars": 7,
@@ -14043,7 +14073,7 @@
             "netScore": 45,
             "points": 15,
             "bonusPoints": 0,
-            "totalPoints": 1035,
+            "totalPoints": 1015,
             "eagles": 1,
             "birdies": 3,
             "pars": 4,
@@ -14072,7 +14102,7 @@
             "netScore": null,
             "points": 0,
             "bonusPoints": 0,
-            "totalPoints": -90,
+            "totalPoints": -100,
             "eagles": 0,
             "birdies": 0,
             "pars": 0,
@@ -14101,7 +14131,7 @@
             "netScore": null,
             "points": 0,
             "bonusPoints": 0,
-            "totalPoints": 1915,
+            "totalPoints": 1905,
             "eagles": 0,
             "birdies": 0,
             "pars": 0,
@@ -14130,7 +14160,7 @@
             "netScore": 51,
             "points": -70,
             "bonusPoints": 0,
-            "totalPoints": -295,
+            "totalPoints": -305,
             "eagles": 0,
             "birdies": 1,
             "pars": 4,
@@ -14840,82 +14870,82 @@
         "standings": [
           {
             "playerName": "Dubes, Austin",
-            "cumulativePoints": 2275,
+            "cumulativePoints": 2270,
             "position": 1
           },
           {
             "playerName": "Follbaum, Ray",
-            "cumulativePoints": 2250,
+            "cumulativePoints": 2240,
             "position": 2
           },
           {
             "playerName": "Skene, Bill",
-            "cumulativePoints": 2235,
+            "cumulativePoints": 2230,
             "position": 3
           },
           {
             "playerName": "Boros, Jason",
-            "cumulativePoints": 2190,
+            "cumulativePoints": 2180,
             "position": 4
           },
           {
             "playerName": "Scharboneau, Mark",
-            "cumulativePoints": 2185,
+            "cumulativePoints": 2175,
             "position": 5
           },
           {
             "playerName": "Hamilton, Matt",
-            "cumulativePoints": 2165,
+            "cumulativePoints": 2145,
             "position": 6
           },
           {
             "playerName": "Urbanski, Jeff",
-            "cumulativePoints": 2065,
+            "cumulativePoints": 2055,
             "position": 7
           },
           {
-            "playerName": "Cloutier, Jeff",
-            "cumulativePoints": 2005,
+            "playerName": "Marcott, Jason",
+            "cumulativePoints": 2000,
             "position": 8
           },
           {
-            "playerName": "Doyle, Todd",
-            "cumulativePoints": 1915,
+            "playerName": "Cloutier, Jeff",
+            "cumulativePoints": 1985,
             "position": 9
           },
           {
-            "playerName": "Marcott, Jason",
-            "cumulativePoints": 1810,
+            "playerName": "Charron, Bill",
+            "cumulativePoints": 1915,
             "position": 10
           },
           {
-            "playerName": "Muck, Kelly",
-            "cumulativePoints": 1655,
+            "playerName": "Doyle, Todd",
+            "cumulativePoints": 1905,
             "position": 11
           },
           {
-            "playerName": "Charron, Dan",
+            "playerName": "Muck, Kelly",
             "cumulativePoints": 1635,
             "position": 12
           },
           {
-            "playerName": "Charron, Bill",
+            "playerName": "Charron, Dan",
             "cumulativePoints": 1625,
             "position": 13
           },
           {
             "playerName": "Kaczor, Michael",
-            "cumulativePoints": 1340,
+            "cumulativePoints": 1320,
             "position": 14
           },
           {
             "playerName": "Fuleky, Joe",
-            "cumulativePoints": 1210,
+            "cumulativePoints": 1190,
             "position": 15
           },
           {
             "playerName": "Miller, Josh",
-            "cumulativePoints": 1035,
+            "cumulativePoints": 1015,
             "position": 16
           },
           {
@@ -14925,7 +14955,7 @@
           },
           {
             "playerName": "Szczepaniak, Matt",
-            "cumulativePoints": 440,
+            "cumulativePoints": 430,
             "position": 18
           },
           {
@@ -14940,15 +14970,18 @@
           },
           {
             "playerName": "Watson, Dave",
-            "cumulativePoints": -90,
+            "cumulativePoints": -100,
             "position": 21
           },
           {
             "playerName": "Block, Todd",
-            "cumulativePoints": -295,
+            "cumulativePoints": -305,
             "position": 22
           }
         ],
+        "sourceType": "url",
+        "sourceUrl": "https://service.golfleague.net/lm/72698/8/results/player_standings_by_points-11.html?1784159290856",
+        "sourceFetchedAt": "2026-07-17T22:13:30.980Z",
         "id": "event-11-1783554769519"
       },
       {
@@ -14975,7 +15008,7 @@
             "netScore": 31,
             "points": 350,
             "bonusPoints": 0,
-            "totalPoints": 2515,
+            "totalPoints": 2495,
             "eagles": 9,
             "birdies": 4,
             "pars": 4,
@@ -15004,7 +15037,7 @@
             "netScore": 36,
             "points": 275,
             "bonusPoints": 0,
-            "totalPoints": 1930,
+            "totalPoints": 1910,
             "eagles": 4,
             "birdies": 8,
             "pars": 3,
@@ -15033,7 +15066,7 @@
             "netScore": 36,
             "points": 275,
             "bonusPoints": 0,
-            "totalPoints": 2085,
+            "totalPoints": 2275,
             "eagles": 3,
             "birdies": 11,
             "pars": 3,
@@ -15062,7 +15095,7 @@
             "netScore": 37,
             "points": 250,
             "bonusPoints": 0,
-            "totalPoints": 1460,
+            "totalPoints": 1440,
             "eagles": 2,
             "birdies": 12,
             "pars": 2,
@@ -15091,7 +15124,7 @@
             "netScore": 38,
             "points": 225,
             "bonusPoints": 0,
-            "totalPoints": 2415,
+            "totalPoints": 2405,
             "eagles": 1,
             "birdies": 9,
             "pars": 5,
@@ -15120,7 +15153,7 @@
             "netScore": 38,
             "points": 205,
             "bonusPoints": 0,
-            "totalPoints": 1240,
+            "totalPoints": 1220,
             "eagles": 3,
             "birdies": 7,
             "pars": 3,
@@ -15149,7 +15182,7 @@
             "netScore": 39,
             "points": 180,
             "bonusPoints": 0,
-            "totalPoints": 2245,
+            "totalPoints": 2235,
             "eagles": 1,
             "birdies": 10,
             "pars": 5,
@@ -15178,7 +15211,7 @@
             "netScore": 39,
             "points": 180,
             "bonusPoints": 0,
-            "totalPoints": 2415,
+            "totalPoints": 2410,
             "eagles": 2,
             "birdies": 10,
             "pars": 4,
@@ -15207,7 +15240,7 @@
             "netScore": 39,
             "points": 170,
             "bonusPoints": 0,
-            "totalPoints": 2175,
+            "totalPoints": 2155,
             "eagles": 2,
             "birdies": 7,
             "pars": 5,
@@ -15236,7 +15269,7 @@
             "netScore": 41,
             "points": 150,
             "bonusPoints": 0,
-            "totalPoints": 2065,
+            "totalPoints": 2055,
             "eagles": 2,
             "birdies": 5,
             "pars": 6,
@@ -15265,7 +15298,7 @@
             "netScore": 45,
             "points": 110,
             "bonusPoints": 0,
-            "totalPoints": 1745,
+            "totalPoints": 1735,
             "eagles": 2,
             "birdies": 4,
             "pars": 5,
@@ -15294,7 +15327,7 @@
             "netScore": 42,
             "points": 110,
             "bonusPoints": 0,
-            "totalPoints": 550,
+            "totalPoints": 540,
             "eagles": 0,
             "birdies": 5,
             "pars": 7,
@@ -15323,7 +15356,7 @@
             "netScore": 43,
             "points": 100,
             "bonusPoints": 0,
-            "totalPoints": 1440,
+            "totalPoints": 1420,
             "eagles": 0,
             "birdies": 4,
             "pars": 8,
@@ -15352,7 +15385,7 @@
             "netScore": 44,
             "points": 80,
             "bonusPoints": 0,
-            "totalPoints": -10,
+            "totalPoints": -20,
             "eagles": 0,
             "birdies": 2,
             "pars": 9,
@@ -15381,7 +15414,7 @@
             "netScore": 46,
             "points": 20,
             "bonusPoints": 0,
-            "totalPoints": -275,
+            "totalPoints": -285,
             "eagles": 0,
             "birdies": 2,
             "pars": 7,
@@ -15410,7 +15443,7 @@
             "netScore": null,
             "points": 0,
             "bonusPoints": 0,
-            "totalPoints": 2185,
+            "totalPoints": 2175,
             "eagles": 0,
             "birdies": 0,
             "pars": 0,
@@ -15439,7 +15472,7 @@
             "netScore": null,
             "points": 0,
             "bonusPoints": 0,
-            "totalPoints": 1625,
+            "totalPoints": 1915,
             "eagles": 0,
             "birdies": 0,
             "pars": 0,
@@ -15468,7 +15501,7 @@
             "netScore": null,
             "points": 0,
             "bonusPoints": 0,
-            "totalPoints": 2275,
+            "totalPoints": 2270,
             "eagles": 0,
             "birdies": 0,
             "pars": 0,
@@ -15497,7 +15530,7 @@
             "netScore": null,
             "points": 0,
             "bonusPoints": 0,
-            "totalPoints": 2250,
+            "totalPoints": 2240,
             "eagles": 0,
             "birdies": 0,
             "pars": 0,
@@ -16207,87 +16240,87 @@
         "standings": [
           {
             "playerName": "Hamilton, Matt",
-            "cumulativePoints": 2515,
+            "cumulativePoints": 2495,
             "position": 1
           },
           {
-            "playerName": "Boros, Jason",
-            "cumulativePoints": 2415,
-            "position": 2
-          },
-          {
             "playerName": "Skene, Bill",
-            "cumulativePoints": 2415,
+            "cumulativePoints": 2410,
             "position": 2
           },
           {
-            "playerName": "Dubes, Austin",
+            "playerName": "Boros, Jason",
+            "cumulativePoints": 2405,
+            "position": 3
+          },
+          {
+            "playerName": "Marcott, Jason",
             "cumulativePoints": 2275,
             "position": 4
           },
           {
-            "playerName": "Follbaum, Ray",
-            "cumulativePoints": 2250,
+            "playerName": "Dubes, Austin",
+            "cumulativePoints": 2270,
             "position": 5
           },
           {
-            "playerName": "Urbanski, Jeff",
-            "cumulativePoints": 2245,
+            "playerName": "Follbaum, Ray",
+            "cumulativePoints": 2240,
             "position": 6
           },
           {
-            "playerName": "Scharboneau, Mark",
-            "cumulativePoints": 2185,
+            "playerName": "Urbanski, Jeff",
+            "cumulativePoints": 2235,
             "position": 7
           },
           {
-            "playerName": "Cloutier, Jeff",
+            "playerName": "Scharboneau, Mark",
             "cumulativePoints": 2175,
             "position": 8
           },
           {
-            "playerName": "Marcott, Jason",
-            "cumulativePoints": 2085,
+            "playerName": "Cloutier, Jeff",
+            "cumulativePoints": 2155,
             "position": 9
           },
           {
             "playerName": "Doyle, Todd",
-            "cumulativePoints": 2065,
+            "cumulativePoints": 2055,
             "position": 10
           },
           {
-            "playerName": "Muck, Kelly",
-            "cumulativePoints": 1930,
+            "playerName": "Charron, Bill",
+            "cumulativePoints": 1915,
             "position": 11
           },
           {
-            "playerName": "Charron, Dan",
-            "cumulativePoints": 1745,
+            "playerName": "Muck, Kelly",
+            "cumulativePoints": 1910,
             "position": 12
           },
           {
-            "playerName": "Charron, Bill",
-            "cumulativePoints": 1625,
+            "playerName": "Charron, Dan",
+            "cumulativePoints": 1735,
             "position": 13
           },
           {
             "playerName": "Fuleky, Joe",
-            "cumulativePoints": 1460,
+            "cumulativePoints": 1440,
             "position": 14
           },
           {
             "playerName": "Kaczor, Michael",
-            "cumulativePoints": 1440,
+            "cumulativePoints": 1420,
             "position": 15
           },
           {
             "playerName": "Miller, Josh",
-            "cumulativePoints": 1240,
+            "cumulativePoints": 1220,
             "position": 16
           },
           {
             "playerName": "Szczepaniak, Matt",
-            "cumulativePoints": 550,
+            "cumulativePoints": 540,
             "position": 17
           },
           {
@@ -16307,15 +16340,18 @@
           },
           {
             "playerName": "Watson, Dave",
-            "cumulativePoints": -10,
+            "cumulativePoints": -20,
             "position": 21
           },
           {
             "playerName": "Block, Todd",
-            "cumulativePoints": -275,
+            "cumulativePoints": -285,
             "position": 22
           }
         ],
+        "sourceType": "url",
+        "sourceUrl": "https://service.golfleague.net/lm/72698/8/results/player_standings_by_points-12.html?1784159290856",
+        "sourceFetchedAt": "2026-07-17T22:13:30.944Z",
         "id": "event-12-1784229254151"
       }
     ],
