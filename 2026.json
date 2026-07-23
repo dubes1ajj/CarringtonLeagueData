@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-07-23T14:12:39.264Z",
+  "exportedAt": "2026-07-23T18:46:10.625Z",
   "league": {
     "leagueName": "2026 Guinness Cup",
     "events": [
@@ -16351,7 +16351,7 @@
         ],
         "sourceType": "url",
         "sourceUrl": "https://service.golfleague.net/lm/72698/8/results/player_standings_by_points-12.html?1784159290856",
-        "sourceFetchedAt": "2026-07-17T22:13:30.944Z",
+        "sourceFetchedAt": "2026-07-23T16:20:58.934Z",
         "id": "event-12-1784229254151"
       },
       {
@@ -17069,19 +17069,19 @@
     },
     "yardageBandSettings": {
       "par3": {
-        "shortMax": 140,
-        "midMax": 170,
-        "longMax": 200
+        "shortMax": 101,
+        "midMax": 129,
+        "longMax": 140
       },
       "par4": {
-        "shortMax": 320,
-        "midMax": 380,
-        "longMax": 430
+        "shortMax": 350,
+        "midMax": 370,
+        "longMax": 415
       },
       "par5": {
-        "shortMax": 470,
-        "midMax": 530,
-        "longMax": 590
+        "shortMax": 480,
+        "midMax": 510,
+        "longMax": 530
       }
     }
   },
