@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exportedAt": "2026-08-05T23:58:20.340Z",
+  "exportedAt": "2026-08-05T23:59:01.770Z",
   "league": {
     "leagueName": "2026 Guinness Cup",
     "events": [
@@ -16357,7 +16357,7 @@
       {
         "eventNumber": 13,
         "eventDate": "7/22/2025",
-        "nineHoles": "front",
+        "nineHoles": "back",
         "players": [
           {
             "position": 1,
@@ -17720,9 +17720,9 @@
           }
         ],
         "sourceType": "url",
-        "sourceUrl": "https://service.golfleague.net/lm/72698/8/results/player_standings_by_points-13.html?1785355859416",
-        "sourceFetchedAt": "2026-08-05T20:28:34.527Z",
-        "id": "event-13-1785355894540"
+        "sourceUrl": "https://service.golfleague.net/lm/72698/8/results/player_standings_by_points-13.html?1785973902375",
+        "sourceFetchedAt": "2026-08-05T23:58:56.367Z",
+        "id": "event-13-1785974336368"
       },
       {
         "eventNumber": 14,
